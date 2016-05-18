@@ -1,0 +1,22 @@
+{
+  "CLIENT": "http://localhost:4200"
+, "HOST": "http://localhost:3000"
+, "HTTP": {
+    "AUTHENTICATE": "ftbl/ftbl"
+  , "SECURE": false
+  }
+, "FACEBOOK": {
+    "ID": "1529163780747732"
+  , "SCOPE": "email,user_likes,user_friends,manage_pages"
+  }
+, "TWITTER": {
+    "ID": "XHacDOM0P1j1alg0fNy4yIBYj"
+  , "SECRET": "FiWmbJZ4i943y17zDtdNLLFjSbH9pVtHhhHGo7kTELcyznlU2N"
+  }
+, "GOOGLE": {
+    "ID": "545251781231-be4al5qk3u2b4172jfpf3f5441allmep.apps.googleusercontent.com"
+  , "SECRET": "j9Fx3tMzJn0wRL3m09dCHCBH"
+  , "SCOPE": [ "https://www.googleapis.com/auth/youtube.readonly" ]
+  }
+, "LICENSE": "1.02"
+}

@@ -1,0 +1,32 @@
+{
+  "CLIENT": "http://testing.signup.liveforfootball.com"
+, "HOST": "http://testing.api.liveforfootball.com"
+
+, "HTTP": {
+    "AUTHENTICATE": "ftbl/ftbl"
+  , "SECURE": false
+  }
+
+, "FACEBOOK": {
+    "ID": "892662254186858"
+  , "SCOPE": "email,user_likes,user_friends"
+  }
+, "TWITTER": {
+    "ID": "4oE4QjJSMnScsC5qmStGBy45a"
+  , "SECRET": "ExM2bmJDf6hbo88AjLEtbrgYkjBsds9kzuw5bf0lV5mCH6HVpz"
+  }
+, "GOOGLE": {
+    "ID": "203274805666-ldm8a8um93rba5a7nt989khjvssa46cl.apps.googleusercontent.com"
+  , "SECRET": "xG2_A-gZJ2m1UrCk4yca5O2n"
+  }  
+
+, "LOGGING": {
+    "TYPE": "papertrail"
+  , "FORMAT": "tiny"
+  }
+, "PAPERTRAIL": {
+    "HOST": "logs4.papertrailapp.com"
+  , "PORT": 50028
+  }
+, "LICENSE": "1.02"
+}

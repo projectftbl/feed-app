@@ -1,0 +1,10 @@
+{
+  "HOST": "http://testing.api.projectftbl.com"
+, "HTTP": {
+    "AUTHENTICATE": "ftbl/ftbl"
+  , "SECURE": false
+  }
+, "FACEBOOK": {
+    "id": ""
+  }
+}
