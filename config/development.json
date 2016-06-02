@@ -1,6 +1,7 @@
 {
   "CLIENT": "http://localhost:4200"
 , "HOST": "http://localhost:3000"
+, "DEFAULT_PAGE": "/user"
 , "HTTP": {
     "AUTHENTICATE": "ftbl/ftbl"
   , "SECURE": false
