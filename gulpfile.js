@@ -23,3 +23,6 @@ gulp.task('dist', function() {
 });
 
 gulp.task('default', [ 'serve', 'watch' ]);
+
+gulp.task('heroku:production', [ 'dist' ]);
+gulp.task('heroku:testing', [ 'dist' ]);
