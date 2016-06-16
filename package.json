@@ -27,7 +27,7 @@
     "@ftbl/gulp": "^1.6.0",
     "@ftbl/icons": "^1.2.6",
     "@ftbl/io": "^1.0.0",
-    "@ftbl/member-web": "^1.2.13",
+    "@ftbl/member-web": "^1.2.32",
     "@ftbl/members-web": "^1.1.4",
     "@ftbl/navigation": "^1.0.1",
     "@ftbl/resource": "^1.0.7",
