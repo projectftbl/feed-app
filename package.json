@@ -15,7 +15,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@ftbl/client": "^1.2.0"
+    "@ftbl/client": "^1.2.0",
+    "@ftbl/form": "^1.4.16"
   },
   "devDependencies": {
     "@ftbl/authorize": "^1.3.0",
