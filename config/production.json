@@ -1,7 +1,7 @@
 {
   "CLIENT": "https://signup.liveforfootball.com"
 , "HOST": "https://api.liveforfootball.com"
-, "DEFAULT_PAGE": "/user"
+, "DEFAULT_PAGE": "/timeline"
 , "HTTP": {
     "AUTHENTICATE": "ftbl/ftbl"
   , "SECURE": true
